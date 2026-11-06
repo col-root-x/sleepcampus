@@ -1,0 +1,4 @@
+TEST REPORT (15 automated tests, actual run output)
+Ran 15 tests in 0.929s
+
+OK
